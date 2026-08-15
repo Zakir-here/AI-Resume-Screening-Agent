@@ -1,0 +1,19 @@
+RESUME
+
+Name: Sneha Iyer
+Candidate ID: candidate_10
+
+EDUCATION
+BCom, 2025
+
+EXPERIENCE
+2 years operations executive
+
+SKILLS
+Excel, Communication, Reporting, Customer Support, Basic SQL
+
+PROJECTS
+Prepared operational reports and maintained spreadsheets for business teams.
+
+PROFILE SUMMARY
+Strong communication and reporting skills but does not meet the core technical AI/ML requirements.

@@ -1,0 +1,19 @@
+RESUME
+
+Name: Aditya Kulkarni
+Candidate ID: candidate_11
+
+EDUCATION
+BTech Computer Science, 2026
+
+EXPERIENCE
+Fresher; final-year AI project
+
+SKILLS
+Python, NLP, Machine Learning, SQL, TensorFlow, Pandas, Git, LLMs
+
+PROJECTS
+Developed a text sentiment analysis system and experimented with an LLM API for document summarization. Evaluated model accuracy.
+
+PROFILE SUMMARY
+Strong technical fresher with AI, NLP, ML, LLM, and Python project experience.

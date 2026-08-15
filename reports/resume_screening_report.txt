@@ -1,0 +1,154 @@
+======================================================================
+RESUME SCREENING REPORT
+======================================================================
+
+Generated: 15-08-2026 16:57:17
+
+Total Resumes Screened: 12
+
+----------------------------------------------------------------------
+
+Rank 1: Arjun Nair
+Candidate ID: candidate_07
+Final Score: 75.53%
+Skills Match: 69.23%
+NLP Similarity: 51.33%
+Experience: 100.00%
+Education: 100.00%
+Decision: Strong Match
+Matched Skills: Python, Machine Learning, Artificial Intelligence, NLP, SQL, LLMs, Generative AI, Git, Research
+
+----------------------------------------------------------------------
+
+Rank 2: Rohan Kumar
+Candidate ID: candidate_03
+Final Score: 69.10%
+Skills Match: 76.92%
+NLP Similarity: 47.34%
+Experience: 65.00%
+Education: 90.00%
+Decision: Consider
+Matched Skills: Python, Machine Learning, NLP, SQL, LLMs, Generative AI, Git, GitHub, Research, API Integration
+
+----------------------------------------------------------------------
+
+Rank 3: Karan Joshi
+Candidate ID: candidate_09
+Final Score: 59.52%
+Skills Match: 61.54%
+NLP Similarity: 25.61%
+Experience: 75.00%
+Education: 90.00%
+Decision: Maybe
+Matched Skills: Python, Machine Learning, NLP, SQL, Git, API Integration, Pandas, Scikit-learn
+
+----------------------------------------------------------------------
+
+Rank 4: Aarav Mehta
+Candidate ID: candidate_01
+Final Score: 56.30%
+Skills Match: 61.54%
+NLP Similarity: 32.73%
+Experience: 50.00%
+Education: 90.00%
+Decision: Maybe
+Matched Skills: Python, Machine Learning, NLP, SQL, Git, GitHub, Pandas, Scikit-learn
+
+----------------------------------------------------------------------
+
+Rank 5: Diya Sharma
+Candidate ID: candidate_02
+Final Score: 55.19%
+Skills Match: 38.46%
+NLP Similarity: 30.21%
+Experience: 90.00%
+Education: 95.00%
+Decision: Maybe
+Matched Skills: Python, SQL, Git, Pandas, Scikit-learn
+
+----------------------------------------------------------------------
+
+Rank 6: Aditya Kulkarni
+Candidate ID: candidate_11
+Final Score: 53.52%
+Skills Match: 53.85%
+NLP Similarity: 30.95%
+Experience: 50.00%
+Education: 95.00%
+Decision: Maybe
+Matched Skills: Python, Machine Learning, NLP, SQL, LLMs, Git, Pandas
+
+----------------------------------------------------------------------
+
+Rank 7: Vikram Singh
+Candidate ID: candidate_05
+Final Score: 48.98%
+Skills Match: 46.15%
+NLP Similarity: 25.07%
+Experience: 50.00%
+Education: 95.00%
+Decision: Maybe
+Matched Skills: Python, Machine Learning, SQL, Git, Pandas, Scikit-learn
+
+----------------------------------------------------------------------
+
+Rank 8: Ishita Rao
+Candidate ID: candidate_04
+Final Score: 41.95%
+Skills Match: 15.38%
+NLP Similarity: 17.20%
+Experience: 90.00%
+Education: 90.00%
+Decision: Reject
+Matched Skills: SQL, Git
+
+----------------------------------------------------------------------
+
+Rank 9: Priya Verma
+Candidate ID: candidate_08
+Final Score: 41.77%
+Skills Match: 30.77%
+NLP Similarity: 23.87%
+Experience: 50.00%
+Education: 90.00%
+Decision: Reject
+Matched Skills: Python, SQL, Git, Pandas
+
+----------------------------------------------------------------------
+
+Rank 10: Neha Patel
+Candidate ID: candidate_06
+Final Score: 38.73%
+Skills Match: 23.08%
+NLP Similarity: 24.00%
+Experience: 50.00%
+Education: 90.00%
+Decision: Reject
+Matched Skills: Python, SQL, Git
+
+----------------------------------------------------------------------
+
+Rank 11: Sneha Iyer
+Candidate ID: candidate_10
+Final Score: 30.26%
+Skills Match: 0.00%
+NLP Similarity: 11.06%
+Experience: 100.00%
+Education: 50.00%
+Decision: Reject
+Matched Skills: None
+
+----------------------------------------------------------------------
+
+Rank 12: Meera Thomas
+Candidate ID: candidate_12
+Final Score: 22.89%
+Skills Match: 0.00%
+NLP Similarity: 21.55%
+Experience: 50.00%
+Education: 50.00%
+Decision: Reject
+Matched Skills: None
+
+----------------------------------------------------------------------
+

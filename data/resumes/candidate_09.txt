@@ -1,0 +1,19 @@
+RESUME
+
+Name: Karan Joshi
+Candidate ID: candidate_09
+
+EDUCATION
+BCA, 2026
+
+EXPERIENCE
+6-month machine learning internship
+
+SKILLS
+Python, Machine Learning, NLP, SQL, Scikit-learn, Pandas, Git, API Integration
+
+PROJECTS
+Built sentiment analysis and text classification models using Python and scikit-learn. Integrated a model into a REST API.
+
+PROFILE SUMMARY
+Strong practical ML and NLP profile with relevant Python and API experience.

@@ -1,0 +1,13 @@
+Rank,Name,Candidate ID,Final Score,Skills Match,NLP Similarity,Experience,Education,Decision,Matched Skills
+1,Arjun Nair,candidate_07,75.53%,69.23%,51.33%,100.00%,100.00%,Strong Match,"Python, Machine Learning, Artificial Intelligence, NLP, SQL, LLMs, Generative AI, Git, Research"
+2,Rohan Kumar,candidate_03,69.10%,76.92%,47.34%,65.00%,90.00%,Consider,"Python, Machine Learning, NLP, SQL, LLMs, Generative AI, Git, GitHub, Research, API Integration"
+3,Karan Joshi,candidate_09,59.52%,61.54%,25.61%,75.00%,90.00%,Maybe,"Python, Machine Learning, NLP, SQL, Git, API Integration, Pandas, Scikit-learn"
+4,Aarav Mehta,candidate_01,56.30%,61.54%,32.73%,50.00%,90.00%,Maybe,"Python, Machine Learning, NLP, SQL, Git, GitHub, Pandas, Scikit-learn"
+5,Diya Sharma,candidate_02,55.19%,38.46%,30.21%,90.00%,95.00%,Maybe,"Python, SQL, Git, Pandas, Scikit-learn"
+6,Aditya Kulkarni,candidate_11,53.52%,53.85%,30.95%,50.00%,95.00%,Maybe,"Python, Machine Learning, NLP, SQL, LLMs, Git, Pandas"
+7,Vikram Singh,candidate_05,48.98%,46.15%,25.07%,50.00%,95.00%,Maybe,"Python, Machine Learning, SQL, Git, Pandas, Scikit-learn"
+8,Ishita Rao,candidate_04,41.95%,15.38%,17.20%,90.00%,90.00%,Reject,"SQL, Git"
+9,Priya Verma,candidate_08,41.77%,30.77%,23.87%,50.00%,90.00%,Reject,"Python, SQL, Git, Pandas"
+10,Neha Patel,candidate_06,38.73%,23.08%,24.00%,50.00%,90.00%,Reject,"Python, SQL, Git"
+11,Sneha Iyer,candidate_10,30.26%,0.00%,11.06%,100.00%,50.00%,Reject,
+12,Meera Thomas,candidate_12,22.89%,0.00%,21.55%,50.00%,50.00%,Reject,
